@@ -1,2 +1,3 @@
-# pjatkLab01
-Moje pierwsze repo
+# Moje pierwsze repozytorium
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et quam massa. Morbi viverra faucibus nunc, eget fringilla erat euismod nec. Sed convallis, diam id finibus luctus, elit ipsum posuere nisl, quis blandit justo elit bibendum risus. Nulla volutpat mattis justo vitae facilisis. Morbi eu ante sapien. Aliquam erat volutpat. Etiam vel fermentum ipsum. Donec eu enim volutpat purus aliquet condimentum vel sed est. Quisque posuere metus nec quam volutpat, at finibus metus accumsan. Integer lectus nulla, rutrum at viverra eget, euismod vitae erat. Donec enim orci, mollis dapibus quam a, laoreet laoreet risus. Nunc hendrerit gravida sapien eget rutrum. Nunc neque libero, pulvinar vitae lacus a, tincidunt euismod sapien. Cras in ex turpis. Nunc venenatis interdum odio et fermentum. Mauris laoreet dolor est, nec auctor tellus lacinia ut.
